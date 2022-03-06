@@ -9,5 +9,5 @@
 
 ### I'm currently:
 
-Research Fellow at UNISA:  The grant focuses on the study of anomaly detection techniques for monitoring via IoT sensors of patients with chronic conditions.
+Research Fellow at UNISA:  The grant focuses on the study of anomaly detection techniques for monitoring via IoT sensors vital data of patients with chronic conditions.
 
